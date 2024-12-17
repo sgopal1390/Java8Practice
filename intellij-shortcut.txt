@@ -1,0 +1,9 @@
+go to Implementation : ctrl + alt + b
+global searh + click 2 times shift
+search file : dtrl + shift + ON
+inspect method output : ctrl + alt + f8
+go back : ctrl + shift + left arrow
+go forward : ctrl + shift + right arrow
+call hierarchy﻿ : Ctrl + Alt + 0H
+delete line : ctrl + y
+System.out.println : sout + tab 
